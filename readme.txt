@@ -1,0 +1,1 @@
+Tener cuidado con el volumen, ya que la musica puede estar alta, y se recomienda usar python 3.10, y un monitor de al menos  1280x768. 
